@@ -5,3 +5,8 @@ matplotlib
 scikit-learn==1.3.2
 hdbscan
 faiss-cpu
+biopython
+plotly
+seaborn
+streamlit-chat
+requests
