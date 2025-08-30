@@ -1,7 +1,8 @@
-streamlit==1.25.0
+streamlit
 pandas
 numpy
 matplotlib
 scikit-learn
 hdbscan
 faiss-cpu
+openai
